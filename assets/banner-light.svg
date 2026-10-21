@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Ayomide Abikoye, Computer Science student building secure full-stack apps, Spring Boot backends and real-time 3D">
+  <rect width="1200" height="300" rx="20" fill="#F5F1EA"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="19.5" fill="none" stroke="#D9D1C4"/>
+  <text x="64" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="3" fill="#8A847A">COMPUTER SCIENCE · ACADEMIC CITY UNIVERSITY · ACCRA</text>
+  <text x="60" y="190" font-family="Georgia, 'Times New Roman', serif" font-size="96" letter-spacing="-2" fill="#1B1A17">Ayomide <tspan font-style="italic" fill="#E3572B">Abikoye</tspan></text>
+  <text x="64" y="240" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#57524A">Secure full-stack apps · Spring Boot backends · Real-time 3D</text>
+  <g>
+    <polygon points="1010.0,24.599999999999994 1118.636,87.3 1118.636,212.7 1010.0,275.4 901.364,212.7 901.364,87.3" fill="none" stroke="#1B1A17" stroke-opacity=".18"/>
+    <polygon points="1010,55 1092.3,102.5 1051.6,126" fill="#E3572B" fill-opacity="0.95" stroke="#F5F1EA" stroke-opacity=".35" stroke-width="1"/>
+    <polygon points="1092.3,102.5 1092.3,197.5 1051.6,126" fill="#E3572B" fill-opacity="0.75" stroke="#F5F1EA" stroke-opacity=".35" stroke-width="1"/>
+    <polygon points="1092.3,197.5 1010,245 1010,198" fill="#E3572B" fill-opacity="0.55" stroke="#F5F1EA" stroke-opacity=".35" stroke-width="1"/>
+    <polygon points="1010,245 927.7,197.5 1010,198" fill="#E3572B" fill-opacity="0.45" stroke="#F5F1EA" stroke-opacity=".35" stroke-width="1"/>
+    <polygon points="927.7,197.5 927.7,102.5 968.4,126" fill="#E3572B" fill-opacity="0.6" stroke="#F5F1EA" stroke-opacity=".35" stroke-width="1"/>
+    <polygon points="927.7,102.5 1010,55 968.4,126" fill="#E3572B" fill-opacity="0.85" stroke="#F5F1EA" stroke-opacity=".35" stroke-width="1"/>
+    <polygon points="1010,55 1051.6,126 968.4,126" fill="#E3572B" fill-opacity="1" stroke="#F5F1EA" stroke-opacity=".35" stroke-width="1"/>
+    <polygon points="1092.3,197.5 1051.6,126 1010,198" fill="#E3572B" fill-opacity="0.68" stroke="#F5F1EA" stroke-opacity=".35" stroke-width="1"/>
+    <polygon points="927.7,197.5 1010,198 968.4,126" fill="#E3572B" fill-opacity="0.52" stroke="#F5F1EA" stroke-opacity=".35" stroke-width="1"/>
+    <polygon points="1051.6,126 1010,198 968.4,126" fill="#E3572B" fill-opacity="0.8" stroke="#F5F1EA" stroke-opacity=".35" stroke-width="1"/>
+    <ellipse cx="1010" cy="150" rx="160" ry="42" fill="none" stroke="#1B1A17" stroke-opacity=".35" transform="rotate(-18 1010 150)"/>
+    <circle cx="1162" cy="101" r="6" fill="#E3572B"/>
+  </g>
+</svg>
