@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ayomide-abikoye-702a062b3">LinkedIn</a> ·
   <a href="mailto:abikoyeayomide29@gmail.com">Email</a> ·
-  <a href="https://github.com/Abiks06/portfolio">Portfolio source</a>
+  <a href="https://ayomide-abikoye.vercel.app"><b>Portfolio</b></a>
 </p>
 
 I'm a Computer Science student at Academic City University in Accra (Class of 2027, CWA 83.14). I've interned at **Ecobank (eProcess)**, **Access Bank** and **Stanbic Bank**, building Spring Boot services, testing production banking systems and working across enterprise IT. I care about security, data integrity and software that holds up in regulated environments, and I spend my spare cycles on real-time 3D graphics.
